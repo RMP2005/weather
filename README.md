@@ -32,7 +32,7 @@ The **Realtime Weather Monitoring App**  is designed to provide users with real-
 To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash bin
+   ```bash 
    git clone <repository-url>
    cd weather-monitoring-app
    ```
