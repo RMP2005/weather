@@ -12,7 +12,7 @@
 9. [Future Enhancements](#future-enhancements)
 
 ## Project Overview
-The **Realtime Weather Monitoring App** is designed to provide users with real-time weather data for various cities, including current weather conditions, temperature, and forecasts. It features an intuitive interface that allows users to set temperature thresholds for alerts and visualize data through graphs.
+The **Realtime Weather Monitoring App** hi is designed to provide users with real-time weather data for various cities, including current weather conditions, temperature, and forecasts. It features an intuitive interface that allows users to set temperature thresholds for alerts and visualize data through graphs.
 
 ## Features
 - **Real-time Weather Data**: Fetch current weather conditions from the Weatherstack API.
