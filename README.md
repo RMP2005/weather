@@ -18,7 +18,7 @@ The **Realtime Weather Monitoring App**  is designed to provide users with real-
 - **Real-time Weather Data**: Fetch current weather conditions from the Weatherstack API.
 - **Daily Summaries**: Display daily weather aggregates such as average, maximum, and minimum temperatures.
 - **Temperature Unit Toggle**: Users can switch between Celsius and Fahrenheit for temperature readings.
-- **Forecast Modal**: Provides detailed forecast data for each city.hi
+- **Forecast Modal**: Provides detailed forecast data for each city.
 - **Temperature Alert Thresholds**: Users can set customizable thresholds for temperature alerts.
 - **Responsive Charts**: Visualize temperature changes throughout the day using Chart.js.
 
